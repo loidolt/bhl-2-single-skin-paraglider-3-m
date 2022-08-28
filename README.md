@@ -1,53 +1,29 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 07/14/2013
+tags: Textiles
+description: A 3 square meter, model version of the BHL2 single surface paraglider from Laboratori D'Envol.
+slug: bhl-2-single-skin-paraglider-3-m
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# BHL 2 Single Skin Paraglider 3m
+
+A 3 square meter, model version of the BHL2 single surface paraglider from Laboratori D'Envol.
 
 ## Table of Contents
-- [Title](#title)
+
+- [BHL 2 Single Skin Paraglider 3m](#bhl-2-single-skin-paraglider-3m)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
   - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+A 3 square meter, model version of the BHL2 single surface paraglider from Laboratori D'Envol.
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+Created to test the design and make an educated decision about creating a full-size version.
 
 ## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+https://www.laboratoridenvol.com/projects/bhl2-19/bhl2-19.html
